@@ -1,0 +1,44 @@
+Notes:
+1. (Edit Plus) javascript editor
+2. user extension (can be downloaded in selenium site)
+3. store (variable initialization)
+4. echo (print variable) ${b}
+5. javascript{storedVars['b']} 
+6. storeEval new Number(storedVars['i']) + 1 ---> gets the value of i then add 1
+
+
+
+
+
+1. Install eclipse (http://www.eclipse.org/downloads/)
+	- Eclipse IDE for Java EE Developers, 221 MB
+
+2. http://docs.seleniumhq.org/download/
+	- download JAVA - Selenium Client & WebDriver Language Bindings
+
+3. After unzip jar file, import all jar file to eclipse. 
+4. Click new - project - java project
+5. Project is test suite 
+6. Classes are test cases
+7. New - Class or go to project folder (right click then select new class)
+8. importing jar file: right click project - properties - java build path - go to libraries - add external jars - import (#2) - import all Jar files from libs folder
+9. selenium.googlecode.com/svn/trunk/docs/api/java/index.html
+10. Install testNG
+
+
+
+
+Installing TestNG
+Below I mentioned setup procedure. Please do and check it out.
+
+•       First we need to install TestNG plugin for Eclipse.
+
+•       Go to Help – Install New Software – Click Add
+
+•       In Add Repository box, type TestNG and type the URL http://beust.com/eclipse
+
+•       TestNG plugin will added into Available Software List.
+
+•       Click on Next and follow the installation screen to complete the setup
+
+•       Restart Eclipse and go to Run menu and open Run Configurations

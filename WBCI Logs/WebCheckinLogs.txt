@@ -1,0 +1,16 @@
+P4TMWF - PRSY
+Start time: Wed Apr 16 14:19:23 SGT 2014 Time elapsed: 0 minutes, 43 seconds. End time: Wed Apr 16 14:20:07 SGT 2014
+S121FB - PRSY
+Start time: Wed Apr 16 14:27:30 SGT 2014 Time elapsed: 0 minutes, 46 seconds. End time: Wed Apr 16 14:28:17 SGT 2014
+Z3UK3V - PRSN (Card Sighting)
+Start time: Wed Apr 16 14:34:58 SGT 2014 Time elapsed: 0 minutes, 4 seconds. End time: Wed Apr 16 14:35:03 SGT 2014
+A9N2NQ - RI flights without ICTS/PRS
+Start time: Wed Apr 16 15:02:14 SGT 2014 Time elapsed: 0 minutes, 2 seconds. End time: Wed Apr 16 15:02:16 SGT 2014
+Start time: Thu Apr 24 08:28:34 SGT 2014 Time elapsed: 0 minutes, 7 seconds. End time: Thu Apr 24 08:28:41 SGT 2014
+Start time: Thu Apr 24 16:23:47 SGT 2014 Time elapsed: 0 minutes, 3 seconds. End time: Thu Apr 24 16:23:51 SGT 2014
+Start time: Thu Apr 24 16:32:07 SGT 2014 Time elapsed: 0 minutes, 3 seconds. End time: Thu Apr 24 16:32:11 SGT 2014
+Start time: Thu Apr 24 16:37:26 SGT 2014 Time elapsed: 0 minutes, 2 seconds. End time: Thu Apr 24 16:37:28 SGT 2014
+Start time: Thu Apr 24 16:56:02 SGT 2014 Time elapsed: 0 minutes, 3 seconds. End time: Thu Apr 24 16:56:06 SGT 2014
+Start time: Thu Apr 24 19:22:35 SGT 2014 Time elapsed: 0 minutes, 7 seconds. End time: Thu Apr 24 19:22:42 SGT 2014
+Start time: Mon Apr 28 11:28:40 SGT 2014 Time elapsed: 0 minutes, 10 seconds. End time: Mon Apr 28 11:28:50 SGT 2014
+Start time: Mon Apr 28 15:18:37 SGT 2014 Time elapsed: 0 minutes, 7 seconds. End time: Mon Apr 28 15:18:44 SGT 2014
